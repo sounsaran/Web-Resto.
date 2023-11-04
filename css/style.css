@@ -392,6 +392,11 @@ header .icons #menu-bars{
     padding-bottom: 1rem;
 }
 
+.menu .box-container .box .content .stars i{
+    color: var(--black);
+    font-size: 1.7rem;
+}
+
 
 
 
